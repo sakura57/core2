@@ -1,0 +1,13 @@
+#if !defined(AFX_STDAFX_H__48C56CFC_C6A9_46DB_A6F8_F607145B2DC6__INCLUDED_)
+#define AFX_STDAFX_H__48C56CFC_C6A9_46DB_A6F8_F607145B2DC6__INCLUDED_
+
+#if _MSC_VER > 1000
+#pragma once
+#endif
+
+
+#define WIN32_LEAN_AND_MEAN
+
+#include <windows.h>
+
+#endif
